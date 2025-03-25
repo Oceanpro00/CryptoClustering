@@ -1,19 +1,31 @@
 # CryptoClustering Project
 
-## 📚 Table of Contents
-> Note: Table of Contents links work best without emojis in section headers. Consider adjusting headers to simple text if using clickable links.
-- [Live Deployment](#🚀-live-deployment)
-- [Overview](#📌-overview)
-- [Objectives](#🎯-objectives)
-- [Long-Form Answers with Visuals](#📝-long-form-answers-with-visuals)
-- [Explicit Answers to Challenge Questions](#✅-explicit-answers-to-challenge-questions)
-- [Project Deliverables](#📂-project-deliverables)
-- [Technologies Used](#🛠️-technologies-used)
-- [Steps to Reproduce](#📖-steps-to-reproduce)
-- [Repository Structure](#📁-repository-structure)
-- [Reference Section](#📜-reference-section)
-- [Badges](#🏆-badges)
-- [Acknowledgments](#🏆-acknowledgments)
+## Table of Contents
+(This section was removed as per final preference)
+
+## 🚀 Live Deployment
+
+## 📌 Overview
+
+## 🎯 Objectives
+
+## 📝 Long-Form Answers with Visuals
+
+## ✅ Explicit Answers to Challenge Questions
+
+## 📂 Project Deliverables
+
+## 🛠️ Technologies Used
+
+## 📖 Steps to Reproduce
+
+## 📁 Repository Structure
+
+## 📜 Reference Section
+
+## 🏆 Badges
+
+## 🏆 Acknowledgments](#🏆-acknowledgments)
 
 ---
 
