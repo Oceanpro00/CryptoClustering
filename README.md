@@ -3,29 +3,29 @@
 ## Table of Contents
 (This section was removed as per final preference)
 
-## 🚀 Live Deployment
+### 🚀 Live Deployment
 
-## 📌 Overview
+### 📌 Overview
 
-## 🎯 Objectives
+### 🎯 Objectives
 
-## 📝 Long-Form Answers with Visuals
+### 📝 Long-Form Answers with Visuals
 
-## ✅ Explicit Answers to Challenge Questions
+### ✅ Explicit Answers to Challenge Questions
 
-## 📂 Project Deliverables
+### 📂 Project Deliverables
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
-## 📖 Steps to Reproduce
+### 📖 Steps to Reproduce
 
-## 📁 Repository Structure
+### 📁 Repository Structure
 
-## 📜 Reference Section
+### 📜 Reference Section
 
-## 🏆 Badges
+### 🏆 Badges
 
-## 🏆 Acknowledgments](#🏆-acknowledgments)
+### 🏆 Acknowledgments](#🏆-acknowledgments)
 
 ---
 
