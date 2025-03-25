@@ -1,6 +1,7 @@
 # CryptoClustering Project
 
 ## 📚 Table of Contents
+> Note: Table of Contents links work best without emojis in section headers. Consider adjusting headers to simple text if using clickable links.
 - [Live Deployment](#🚀-live-deployment)
 - [Overview](#📌-overview)
 - [Objectives](#🎯-objectives)
