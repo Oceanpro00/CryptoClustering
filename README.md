@@ -1,7 +1,6 @@
 # CryptoClustering Project
 
 ## Table of Contents
-(This section was removed as per final preference)
 
 ### 🚀 Live Deployment
 
